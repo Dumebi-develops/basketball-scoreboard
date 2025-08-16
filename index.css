@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    text-align: center;
+    border: 5px solid #EEEEEE;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    color: #EEEEEE;
+}
+#home-score, #guest-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    margin: 20px;
+    padding-top: 10px;
+    font-family:'Cursed Timer ULiL', sans-serif;
+    width: 155px;
+    height: 110px;
+}
+.btn {
+    margin-bottom: 30px;
+    background-color: #1B244A;
+    font-family:'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    padding: 6px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin-top: 7px;
+}
+#title {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: -10px;
+}
